@@ -1,0 +1,70 @@
+Reading the opcodes latency info from tests/test140.dat ... Got latency for 9 opcodes
+Reading the program file tests/test140.in ... Found 200 instructions
+getProgDepth()==227
+getDepDepth(151)==113
+getInstDeps(139)=={127,91}
+getInstDeps(147)=={104,120}
+getDepDepth(7)==0
+getInstDeps(196)=={191,174}
+getInstDeps(180)=={153,163}
+getDepDepth(146)==93
+getDepDepth(51)==43
+getDepDepth(165)==144
+getDepDepth(170)==90
+getDepDepth(155)==106
+getInstDeps(0)=={-1,-1}
+getInstDeps(154)=={123,91}
+getDepDepth(140)==154
+getInstDeps(101)=={96,-1}
+getInstDeps(31)=={20,7}
+getDepDepth(10)==0
+getInstDeps(137)=={74,124}
+getDepDepth(89)==60
+getInstDeps(33)=={-1,26}
+getDepDepth(166)==60
+getDepDepth(175)==162
+getDepDepth(28)==31
+getDepDepth(133)==90
+getInstDeps(169)=={131,120}
+getInstDeps(155)=={93,146}
+getInstDeps(177)=={153,61}
+getInstDeps(90)=={72,78}
+getInstDeps(6)=={-1,-1}
+getInstDeps(99)=={64,72}
+getInstDeps(191)=={68,154}
+getInstDeps(129)=={127,126}
+getInstDeps(29)=={-1,11}
+getInstDeps(50)=={30,-1}
+getInstDeps(61)=={-1,-1}
+number of false dependencies for register[0] is 0
+number of false dependencies for register[1] is 1
+number of false dependencies for register[2] is 0
+number of false dependencies for register[3] is 0
+number of false dependencies for register[4] is 0
+number of false dependencies for register[5] is 1
+number of false dependencies for register[6] is 1
+number of false dependencies for register[7] is 1
+number of false dependencies for register[8] is 0
+number of false dependencies for register[9] is 0
+number of false dependencies for register[10] is 0
+number of false dependencies for register[11] is 0
+number of false dependencies for register[12] is 0
+number of false dependencies for register[13] is 2
+number of false dependencies for register[14] is 4
+number of false dependencies for register[15] is 1
+number of false dependencies for register[16] is 0
+number of false dependencies for register[17] is 0
+number of false dependencies for register[18] is 0
+number of false dependencies for register[19] is 0
+number of false dependencies for register[20] is 1
+number of false dependencies for register[21] is 0
+number of false dependencies for register[22] is 0
+number of false dependencies for register[23] is 0
+number of false dependencies for register[24] is 2
+number of false dependencies for register[25] is 0
+number of false dependencies for register[26] is 0
+number of false dependencies for register[27] is 1
+number of false dependencies for register[28] is 0
+number of false dependencies for register[29] is 0
+number of false dependencies for register[30] is 0
+number of false dependencies for register[31] is 0

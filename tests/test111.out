@@ -1,0 +1,83 @@
+Reading the opcodes latency info from tests/test111.dat ... Got latency for 9 opcodes
+Reading the program file tests/test111.in ... Found 200 instructions
+getProgDepth()==251
+getDepDepth(34)==2
+getDepDepth(148)==123
+getDepDepth(129)==189
+getDepDepth(60)==56
+getDepDepth(31)==36
+getInstDeps(105)=={80,78}
+getDepDepth(179)==136
+getInstDeps(172)=={119,143}
+getInstDeps(33)=={-1,9}
+getDepDepth(95)==72
+getDepDepth(178)==141
+getDepDepth(178)==141
+getDepDepth(58)==59
+getDepDepth(26)==19
+getInstDeps(179)=={170,82}
+getInstDeps(147)=={141,146}
+getInstDeps(33)=={-1,9}
+getInstDeps(52)=={48,48}
+getDepDepth(4)==17
+getInstDeps(45)=={42,-1}
+getDepDepth(25)==13
+getInstDeps(82)=={58,70}
+getDepDepth(137)==170
+getDepDepth(91)==9
+getInstDeps(57)=={-1,-1}
+getDepDepth(40)==26
+getInstDeps(72)=={40,-1}
+getDepDepth(100)==50
+getDepDepth(137)==170
+getInstDeps(56)=={38,13}
+getInstDeps(122)=={99,45}
+getDepDepth(56)==59
+getInstDeps(55)=={13,32}
+getDepDepth(157)==153
+getInstDeps(119)=={45,107}
+getDepDepth(80)==78
+getInstDeps(71)=={-1,26}
+getInstDeps(28)=={19,8}
+getInstDeps(159)=={137,119}
+getDepDepth(41)==49
+getInstDeps(34)=={-1,10}
+getInstDeps(61)=={36,45}
+getDepDepth(79)==84
+getInstDeps(51)=={45,33}
+getInstDeps(70)=={58,-1}
+getDepDepth(149)==183
+getInstDeps(95)=={61,66}
+getDepDepth(112)==45
+number of false dependencies for register[0] is 1
+number of false dependencies for register[1] is 0
+number of false dependencies for register[2] is 2
+number of false dependencies for register[3] is 0
+number of false dependencies for register[4] is 0
+number of false dependencies for register[5] is 0
+number of false dependencies for register[6] is 1
+number of false dependencies for register[7] is 0
+number of false dependencies for register[8] is 2
+number of false dependencies for register[9] is 0
+number of false dependencies for register[10] is 0
+number of false dependencies for register[11] is 0
+number of false dependencies for register[12] is 0
+number of false dependencies for register[13] is 0
+number of false dependencies for register[14] is 1
+number of false dependencies for register[15] is 0
+number of false dependencies for register[16] is 0
+number of false dependencies for register[17] is 1
+number of false dependencies for register[18] is 0
+number of false dependencies for register[19] is 1
+number of false dependencies for register[20] is 0
+number of false dependencies for register[21] is 0
+number of false dependencies for register[22] is 0
+number of false dependencies for register[23] is 0
+number of false dependencies for register[24] is 0
+number of false dependencies for register[25] is 0
+number of false dependencies for register[26] is 3
+number of false dependencies for register[27] is 0
+number of false dependencies for register[28] is 2
+number of false dependencies for register[29] is 1
+number of false dependencies for register[30] is 0
+number of false dependencies for register[31] is 0

@@ -1,0 +1,111 @@
+Reading the opcodes latency info from tests/test131.dat ... Got latency for 9 opcodes
+Reading the program file tests/test131.in ... Found 200 instructions
+getProgDepth()==286
+getInstDeps(105)=={94,74}
+getDepDepth(47)==57
+getDepDepth(131)==121
+getInstDeps(53)=={43,22}
+getInstDeps(158)=={88,155}
+getDepDepth(50)==38
+getInstDeps(60)=={27,22}
+getDepDepth(70)==40
+getInstDeps(114)=={59,112}
+getInstDeps(150)=={147,65}
+getInstDeps(32)=={22,-1}
+getDepDepth(159)==198
+getInstDeps(131)=={117,84}
+getDepDepth(177)==261
+getDepDepth(90)==93
+getDepDepth(118)==106
+getDepDepth(158)==221
+getDepDepth(78)==93
+getInstDeps(83)=={80,66}
+getInstDeps(149)=={138,130}
+getDepDepth(160)==199
+getDepDepth(139)==117
+getInstDeps(90)=={81,73}
+getDepDepth(156)==221
+getDepDepth(143)==131
+getInstDeps(48)=={2,31}
+getInstDeps(117)=={111,65}
+getInstDeps(155)=={149,144}
+getInstDeps(1)=={-1,-1}
+getDepDepth(55)==57
+getInstDeps(30)=={12,29}
+getInstDeps(101)=={98,84}
+getDepDepth(103)==83
+getInstDeps(110)=={77,97}
+getInstDeps(24)=={-1,-1}
+getDepDepth(136)==173
+getInstDeps(75)=={22,72}
+getDepDepth(64)==56
+getDepDepth(8)==0
+getInstDeps(196)=={168,190}
+getInstDeps(178)=={177,151}
+getInstDeps(145)=={135,140}
+getDepDepth(136)==173
+getDepDepth(156)==221
+getDepDepth(26)==13
+getInstDeps(128)=={77,70}
+getDepDepth(154)==154
+getDepDepth(188)==211
+getInstDeps(26)=={-1,11}
+getDepDepth(199)==234
+getInstDeps(102)=={10,77}
+getInstDeps(189)=={164,166}
+getDepDepth(46)==19
+getDepDepth(79)==47
+getInstDeps(117)=={111,65}
+getInstDeps(5)=={-1,-1}
+getDepDepth(149)==187
+getDepDepth(120)==150
+getDepDepth(132)==114
+getInstDeps(108)=={73,22}
+getDepDepth(6)==0
+getInstDeps(101)=={98,84}
+getInstDeps(69)=={65,40}
+getDepDepth(116)==131
+getDepDepth(50)==38
+getInstDeps(72)=={70,71}
+getDepDepth(79)==47
+getDepDepth(160)==199
+getInstDeps(74)=={-1,30}
+getDepDepth(151)==152
+getDepDepth(148)==206
+getDepDepth(182)==211
+getDepDepth(178)==284
+getDepDepth(195)==236
+getDepDepth(158)==221
+getInstDeps(188)=={133,159}
+number of false dependencies for register[0] is 0
+number of false dependencies for register[1] is 0
+number of false dependencies for register[2] is 2
+number of false dependencies for register[3] is 1
+number of false dependencies for register[4] is 0
+number of false dependencies for register[5] is 0
+number of false dependencies for register[6] is 0
+number of false dependencies for register[7] is 0
+number of false dependencies for register[8] is 0
+number of false dependencies for register[9] is 0
+number of false dependencies for register[10] is 1
+number of false dependencies for register[11] is 3
+number of false dependencies for register[12] is 0
+number of false dependencies for register[13] is 0
+number of false dependencies for register[14] is 0
+number of false dependencies for register[15] is 1
+number of false dependencies for register[16] is 0
+number of false dependencies for register[17] is 0
+number of false dependencies for register[18] is 1
+number of false dependencies for register[19] is 0
+number of false dependencies for register[20] is 0
+number of false dependencies for register[21] is 2
+number of false dependencies for register[22] is 0
+number of false dependencies for register[23] is 0
+number of false dependencies for register[24] is 1
+number of false dependencies for register[25] is 0
+number of false dependencies for register[26] is 0
+number of false dependencies for register[27] is 2
+number of false dependencies for register[28] is 0
+number of false dependencies for register[29] is 1
+number of false dependencies for register[30] is 1
+number of false dependencies for register[31] is 0
